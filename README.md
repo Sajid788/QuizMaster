@@ -32,7 +32,7 @@ This is a simple Quiz App built using React.js. The app presents multiple-choice
 
 ## File Structure
 ```
-quiz-app/
+quizmaster/
 │── src/
 │   ├── components/
 │   │   ├── QuestionCard.js
