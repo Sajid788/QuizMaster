@@ -41,7 +41,6 @@ quizmaster/
 │   ├── data
 │   ├── App.js
 │   ├── index.js
-│── public/
 │   ├── assets/
 │   │   ├── bg-quiz1.png
 │   │   ├── bg-results.png
