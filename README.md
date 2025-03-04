@@ -62,6 +62,14 @@ quiz-app/
 - Implement a leaderboard system
 - Store user scores using local storage or a backend
 
+## ScreenShots
+![Screenshot 2025-03-04 114446](https://github.com/user-attachments/assets/fccbd123-0d42-4bea-8dbb-289f4dd7f07e)
+![image](https://github.com/user-attachments/assets/3660cb8d-29ad-4562-b3a0-03409be2deeb)
+![image](https://github.com/user-attachments/assets/87b807a3-e151-4229-9313-d29ed9397947)
+
+
+
+
 ## License
 This project is licensed under the MIT License.
 
