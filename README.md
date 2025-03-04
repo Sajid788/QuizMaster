@@ -56,11 +56,6 @@ quizmaster/
 5. After all questions are answered, the final score is displayed.
 6. Users can restart the quiz.
 
-## Future Enhancements
-- Add different quiz categories
-- Implement a leaderboard system
-- Store user scores using local storage or a backend
-
 ## ScreenShots
 ![Screenshot 2025-03-04 114446](https://github.com/user-attachments/assets/fccbd123-0d42-4bea-8dbb-289f4dd7f07e)
 ![image](https://github.com/user-attachments/assets/3660cb8d-29ad-4562-b3a0-03409be2deeb)
